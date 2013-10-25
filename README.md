@@ -8,7 +8,7 @@ TASK LIST:
 
 Paul : Player Controller (Avaiable Tues before 2, possibly Fri)
 Conor : UI (Available Mon, Tues, Weds, Fri
-Ian : Level (Available Fri, Sat Night, Sun)
+Ian : Test Level (Available Fri, Sat Night, Sun)
 Eric : AI (Available Tues, Weds, Sat, Sun)
 Mick : Unassigned (Possibly Art or Later Level Design)
 Adam : Uncertain if participating
