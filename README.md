@@ -30,6 +30,7 @@ Artist
 
 GAME DESIGN:
 
+Single player
 Adventure game (Tenatively Steam Punk Setting)
 Top down isometric camera
 Classless character w/ skill tree
