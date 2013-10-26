@@ -1,8 +1,8 @@
 shugamedev
 ==========
 
-Create a folder with your name that will be used to upload content before project integration
-
+To upload files you need the application for github, once you are connected to the repository open a shell from settings
+from here to add files use "git add YourName/FileDirectory" then to upload use "git commit" then "git push"
 
 TASK LIST:
 
