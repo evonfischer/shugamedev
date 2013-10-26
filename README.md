@@ -1,8 +1,7 @@
 shugamedev
 ==========
 
-To upload files you need the application for github, once you are connected to the repository open a shell from settings
-from the application. To add files use "git add YourName/FileDirectory" then to upload use "git commit" then "git push"
+Upload your edits to your folder, from there we can merge files that were edited simultaneously to avoid overwritting someone elses work
 
 TASK LIST:
 
