@@ -9,7 +9,7 @@ Paul : Player Controller (Avaiable Tues before 2, possibly Fri)
 Conor : UI (Available Mon, Tues, Weds, Fri
 Ian : Test Level (Available Fri, Sat Night, Sun)
 Eric : AI (Available Tues, Weds, Sat, Sun)
-Mick : Unassigned (Possibly Art or Later Level Design)
+Mick : Level Chunk concept design when available (Possibly Art or Later Level Design)
 Adam : Unassigned (Possibly Enemy Generation) (Available Wed, Fri)
 
 OBJECTIVE TIMELINE:
