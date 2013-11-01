@@ -1,0 +1,3 @@
+11/1/13: Node and Node parent object uploaded
+- Rudimentary EnemyAI script uploaded
+- Node and Node Intializer scripts uploaded
