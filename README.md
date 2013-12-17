@@ -14,12 +14,12 @@ Adam : Unassigned (Possibly Enemy Generation) (Available Wed, Fri)
 
 OBJECTIVE TIMELINE:
 
-Establish test level with AI, player interaction, and combat system (December 2013)
+Establish test level with AI, player interaction, and combat system
 Develop inventory and level system
 Develop level generation system
-Develop enemy generation system (February 2014)
+Develop enemy generation system
 Integrate story elements
-Polish and balance all elements (April 2014)
+Polish and balance all elements
 
 UNACQUIRED RESOURCES:
 
